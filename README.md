@@ -4,9 +4,7 @@ sound converter
 This script is just an edit of https://github.com/s-thom/bg3-sounds-converter that I made to convert the wem files in the Voice bank.
 It's extremely simple and any other vgstream script would do the same thing, but I'm lazy and would rather repurpose a script I already have LOL.
 
-(From s-thom):
-"
-## Requirements
+## Requirements (from s-thom)
 
 This script assumes you are on Windows and are comfortable enough in a terminal to run a command or two.
 
@@ -24,9 +22,8 @@ You will need to download/install a few things to make this work.
   - Used to convert the `.wem` files to `.wav` so audio players can play them.
   - Download the latest release from [the builds website](https://vgmstream.org/) and extract the folder somewhere.
   - Double check the release has a bunch of DLLs included.
-"
-(Edited from s-thom):
-## Usage
+
+## Usage (edited from s-thom)
 
 1. Ensure you check this project out in a path with _no spaces_ in the name
    - This project is currently sensitive to this, and having spaces in any paths will mean it doesn't work.

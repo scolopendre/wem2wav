@@ -5,9 +5,13 @@ import subprocess
 
 should_convert = True
 
-folder_vgmstream = "C:\\BG3mods\\bg3-sounds-converter-main\\vgmstream-win64"
-folder_audio_raw = "c:\\BG3mods\\bg3-modders-multitool\\UnpackedData\\bhaal-audio"
-folder_audio_converted = "c:\\BG3mods\\durge-audio\\bhaal-audio"
+#folder names must have NO SPACES or the code will not run
+#make sure to double backslash the file path.
+#for instance: "C:\ModdingTools\vgmstream-win64" -> "C:\\ModdingTools\\vgmstream-win64"
+
+folder_vgmstream = ""
+folder_audio_raw = ""
+folder_audio_converted = ""
 
 
 if should_convert:

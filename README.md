@@ -4,6 +4,8 @@ sound converter
 This script is just an edit of https://github.com/s-thom/bg3-sounds-converter that I made to convert the wem files in the Voice bank.
 It's extremely simple and any other vgstream script would do the same thing, but I'm lazy and would rather repurpose a script I already have LOL.
 
+Here's the actually insane Baldur's Gate 3 audio extraction guide that I wrote this script for: https://docs.google.com/document/d/1v3ClInw6lSAoy51hyJ1TLnPVapJSbe3PIRD2GJr_OB0/edit?usp=sharing
+
 ## Requirements (from s-thom)
 
 This script assumes you are on Windows and are comfortable enough in a terminal to run a command or two.
